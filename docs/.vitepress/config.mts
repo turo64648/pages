@@ -18,11 +18,6 @@ export default defineConfig({
     theme: { light: 'github-light', dark: 'github-dark' },
   },
   themeConfig: {
-    nav: [
-      { text: 'All pages', link: '/' },
-      { text: 'OS Primer', link: 'https://turo64648.github.io/os-primer/' },
-      { text: 'Networking Primer', link: 'https://turo64648.github.io/networking-primer/' },
-    ],
     outline: { level: [2, 3], label: 'On this page' },
     search: { provider: 'local' },
     docFooter: { prev: false, next: false },

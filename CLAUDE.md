@@ -1,7 +1,7 @@
 # Pages
 
 A VitePress site of miscellaneous pages (explainers, notes, comparisons, anything), at
-https://turo64648.github.io/pages/. Sibling of the OS Primer and Networking Primer; same theme.
+https://turo64648.github.io/pages/.
 `.github/workflows/deploy.yml` deploys every push to `main`.
 
 ## Adding a page

@@ -10,8 +10,7 @@ import { data as pages } from './pages.data'
 
 # Pages
 
-Explainers, notes and other pages, newest first. Siblings: the [OS Primer](https://turo64648.github.io/os-primer/)
-and the [Networking Primer](https://turo64648.github.io/networking-primer/).
+Explainers, notes and other pages, newest first.
 
 <ul class="page-list">
   <li v-for="p in pages" :key="p.url">
